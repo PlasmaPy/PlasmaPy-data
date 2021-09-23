@@ -1,4 +1,4 @@
-PSTAR: Stopping Powers and Range Tables for Protons
+﻿PSTAR: Stopping Powers and Range Tables for Protons
 
 ALUMINUM                                                                
 
