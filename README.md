@@ -1,2 +1,2 @@
-# sample-data
-Sample data for testing and documenting PlasmaPy
+# data
+Data repository for use in plasmapy functions.
