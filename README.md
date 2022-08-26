@@ -1,2 +1,2 @@
-# data
+# plasmapy-data
 Data repository for use in plasmapy functions.
